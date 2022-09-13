@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur881&label=Profile%20views&color=0e75b6&style=flat" alt="arthur881" /> </p>
 
-- 🌱 I’m currently learning **native js**
+- 🌱 I’m currently learning **sass**
 
 - 📫 How to reach me **arthur.pouteau@edu.devinci.fr**
 
