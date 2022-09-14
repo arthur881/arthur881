@@ -1,7 +1,7 @@
 ![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Room-Name-Full.jpg)
 
 <h1 align="center">Hi 👋, I'm Arthur</h1>
-<h3 align="center">A front-end develloper student at IIM</h3>
+<h3 align="center">A front-end developer student at IIM</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur881&label=Profile%20views&color=0e75b6&style=flat" alt="arthur881" /> </p>
