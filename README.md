@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **arthur.pouteau@edu.devinci.fr**
 
-- ⚡ Fun fact: I was born the same day as Jonathan Cohen and Tupac Shakur :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
