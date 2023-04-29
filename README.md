@@ -10,6 +10,8 @@
 
 - Currently in internship at Résopharma
 
+- Currently looking for a work placement in a web agency in Paris
+
 - 📫 How to reach me **arthur.pouteau@edu.devinci.fr**
 
 - 🔗 My portfolio : https://portfolio-ap-arthur881.vercel.app/
