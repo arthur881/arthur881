@@ -6,11 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthur881&label=Profile%20views&color=0e75b6&style=flat" alt="arthur881" /> </p>
 
-- 🌱 I’m currently learning Three.js on my own
+- 🌱 I’m currently learning Vue.js & React
 
-- Currently in internship at Résopharma
-
-- Currently looking for a work placement in a web agency in Paris
 
 - 📫 How to reach me **arthur.pouteau@edu.devinci.fr**
 
